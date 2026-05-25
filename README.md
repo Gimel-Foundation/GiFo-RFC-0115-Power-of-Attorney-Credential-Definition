@@ -1,4 +1,4 @@
-# GiFo-RFC-0115
+# GiFo-RFC-0115 (Version 1.0.1)
 
 **Power-of-Attorney Credential Definition (PoA-Definition)**
 
