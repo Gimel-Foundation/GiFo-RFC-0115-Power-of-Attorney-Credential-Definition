@@ -3,7 +3,7 @@ Gimel Foundation LDA e.c.
 
 Author: Dr. Goetz G. Wehberg, DSI
 
-GiFo-Request for Comments: 0115   
+GiFo-Request for Comments: 0115 (Version 1.0.1)   
 
 Obsoletes: -     
 
@@ -378,6 +378,11 @@ The PoA-Definition Can be structured along the following attributes and paramete
 ``[ ] Conditional effectiveness (e.g., triggered by event, illness, absence of principal)``
 
 ``[ ] Obligation to immediately inform the principal of certain transactions``
+
+``[ ] Minimum trust class of the attorney-in-fact (e.g., requiring a minimum reputation tier per the trust-scoring model normatively defined in GiFo-RFC-0140 §4.3.3; evaluated at action time by the PEP per GiFo-RFC-0117 §9.2 CHK-17)``
+
+``[ ] Continuous verification requirement (e.g., requiring push-based revocation propagation and stateful re-evaluation regardless of the deployment governance profile)``
+
 
 
 ``[ ] Other (specify)``
